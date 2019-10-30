@@ -1,0 +1,2 @@
+# data_visualization
+学习python的matplotlib数学绘图库，绘制简单的折线图和散点图，并基于随机漫步生成含有大量数据的有趣数据集。
